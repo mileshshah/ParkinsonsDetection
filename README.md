@@ -13,7 +13,7 @@ This project is focused on building a machine learning model to predict Parkinso
 ### Prerequisites
 Install the required dependencies:
 ```bash
-pip install pandas scikit-learn
+pip install -r requirements.txt
 ```
 
 ### Running the Model
